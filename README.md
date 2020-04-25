@@ -1,4 +1,5 @@
 # Interviewbit
-This is practice portal for data structures and algorithms:
+This is practice portal for data structures and algorithms
 
-https://docs.google.com/spreadsheets/d/16vTx1lG0fQUxvQ6K-krsXQLdKadBA2lxoH_GDtV392Q/edit#gid=1870363698
+1. [Word break](https://leetcode.com/problems/word-break/)
+2. [Word Break II](https://leetcode.com/problems/word-break-ii/)
